@@ -5,16 +5,13 @@
 .cabecalho {
     background-color: #799CF8;
     color: #ffffff;
+    display: flex;
+    justify-content: space-around;
 }
 
 .cabecalho-imagem {
     width: 10%;
     height: 10%;
-}
-
-.cabecalho {
-    display: flex;
-    justify-content: space-around;
 }
 
 .cabecalho-lista-item {
