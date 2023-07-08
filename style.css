@@ -1,3 +1,9 @@
-body {
-    color: #799CF8;
+header {
+    background-color: #799CF8;
+    color: #ffffff;
+}
+
+img {
+    width: 10%;
+    height: 10%;
 }
