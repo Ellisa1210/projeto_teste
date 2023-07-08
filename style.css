@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 .cabecalho {
     background-color: #799CF8;
     color: #ffffff;
