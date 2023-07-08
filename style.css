@@ -1,4 +1,4 @@
-header {
+.cabecalho {
     background-color: #799CF8;
     color: #ffffff;
 }
@@ -10,9 +10,9 @@ header {
 
 .cabecalho {
     display: flex;
+    justify-content: space-around;
 }
 
-.cabecalho-lista {
-    display: flex;
-    justify-content: space-around;
+.cabecalho-lista-item {
+    display: inline-block;     
 }
