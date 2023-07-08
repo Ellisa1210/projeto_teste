@@ -14,4 +14,5 @@ header {
 
 .cabecalho-lista {
     display: flex;
+    justify-content: space-around;
 }
