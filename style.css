@@ -20,7 +20,7 @@
     margin: 0 20px;
     
 .edutech {
-    background-image: -o-linear-gradient(#0C1733, #1C2B52);
+    background-image: linear-gradient(#0C1733, #1C2B52);
     color: white;
     display: flex; 
 }
@@ -28,7 +28,7 @@
 .edutech-div-conteudo {
     width: 35%;
 }
-}
+
 .edutech-titulo {
     display: flex;
     justify-content:center
