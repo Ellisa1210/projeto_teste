@@ -19,13 +19,13 @@
     display: inline-block;
     margin: 0 20px;
     
-.edutech {
+.edutech{
     background-image: linear-gradient(#0C1733, #1C2B52);
     color: white;
     display: flex; 
 }
 
-.edutech-div-conteudo {
+.edutech-div-conteudo{
     width: 35%;
 }
 
@@ -46,6 +46,7 @@
     display: inline-block;
     margin: 20 20px;
 }
+
 .edutech-imagem {
     width: 20%;
 }
