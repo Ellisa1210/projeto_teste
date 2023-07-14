@@ -19,3 +19,8 @@
     display: inline-block;
     margin: 0 20px;     
 }
+.edutech-titulo {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
