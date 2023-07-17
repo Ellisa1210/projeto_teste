@@ -45,7 +45,6 @@ body{
     padding: 24px 0;
     display: inline-block;
     justify-content:space-around;
-    margin: 0 40px;
 }
 
 .imagem-titulo {
@@ -54,6 +53,6 @@ body{
     display: inline-block;
     justify-content:space-around;
     align-items: center;
-    margin: 0 40px;
+    margin: 0 30px;
 }
 
