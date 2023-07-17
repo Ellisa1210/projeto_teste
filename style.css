@@ -43,14 +43,14 @@ body{
 
 .edutech-titulo {
     padding: 24px 0;
-    display: flex;
+    display: inline-block;
     justify-content:space-around;
 }
 
 .imagem-titulo {
     width: 20%;
     height: 20%;
-    display: flex;
+    display: inline-block;
     justify-content:space-around;
     align-items: center;
 }
