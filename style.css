@@ -34,8 +34,8 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 120px 0; 
-}
+    padding: 120px 0;
+    }
 
 .edutech-div-conteudo{
     width: 35%;
@@ -43,6 +43,7 @@ body{
 
 .edutech-titulo {
     padding: 24px 0;
+    align-items: center;
 }
 
 .imagem-titulo {
