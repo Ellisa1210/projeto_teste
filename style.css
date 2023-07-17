@@ -18,12 +18,13 @@
 .cabecalho-lista-item {
     display: inline-block;
     margin: 0 20px;
+}
 
 .edutech-imagem{
     width: 20%;
 }
     
-.edutech {
+.edutech{
     background-image: linear-gradient(#0C1733, #1C2B52);
     color: white;
     display: flex;
@@ -44,7 +45,7 @@
     width: 5%;
     height: 5%;
     display: flex;
-    justify-content:center
+    justify-content:center;
     align-items: center;
     display: inline-block;
     margin: 20 20px;
