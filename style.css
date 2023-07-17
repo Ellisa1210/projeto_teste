@@ -19,11 +19,11 @@
     display: inline-block;
     margin: 0 20px;
 
-.edutech-imagem {
+.edutech-imagem{
     width: 20%;
-    }
+}
     
-.edutech{
+.edutech {
     background-image: linear-gradient(#0C1733, #1C2B52);
     color: white;
     display: flex;
