@@ -42,8 +42,8 @@
 }
 
 .imagem-titulo {
-    width: 10%;
-    height: 10%;
+    width: 20%;
+    height: 20%;
     display: flex;
     justify-content:space-around;
     align-items: center;
