@@ -30,7 +30,7 @@ body{
     
 .edutech{
     background-image: linear-gradient(#0C1733, #d4d3da);
-    color: white;
+    color: #d4d3da;
     display: flex;
     justify-content: center;
     align-items: center;
