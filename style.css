@@ -95,10 +95,13 @@ body{
 
 .rodape {
     background-color: #0C1733;
+    text-align: center;
 }
 
 .rodape-imagem {
     height: 60px;
+    padding: 12px 0;
+   
 }
 
 
